@@ -1,0 +1,4 @@
+﻿  CppProgram.cpp
+c:\workspace\vc\cppprogram\cppprogram\cppprogram.cpp(187): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CppProgram.vcxproj -> C:\workspace\VC\CppProgram\x64\Debug\CppProgram.exe
+  CppProgram.vcxproj -> C:\workspace\VC\CppProgram\x64\Debug\CppProgram.pdb (Full PDB)
